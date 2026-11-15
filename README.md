@@ -32,7 +32,9 @@ Video Breakdown Cases — a shot-by-shot breakdown library of viral short videos
 
 ## 支持
 
-觉得有用请点个 Star，方便以后找回来。打赏通道随后补上。
+觉得有用请点个 Star，方便以后找回来。如果拆解帮你省了时间，也欢迎扫码请作者喝杯咖啡：
+
+<img src="sponsor-qr.jpg" alt="微信赞赏码" width="300">
 
 ## 许可
 
